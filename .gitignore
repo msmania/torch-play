@@ -1,0 +1,4 @@
+.vscode/
+*.pyc
+MNIST/
+lightning_logs/
